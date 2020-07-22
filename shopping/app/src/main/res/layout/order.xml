@@ -1,0 +1,137 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    	android:layout_width="match_parent"
+   		android:layout_height="match_parent"
+    	android:orientation="vertical" >  
+    	
+    <!-- 头部 -->
+		<RelativeLayout
+        android:id="@+id/main_RelativeLayout01"
+        android:layout_width="fill_parent"
+        android:layout_height="35dp"
+        android:background="@drawable/top_bg"
+        android:layout_alignParentTop="true"
+        android:orientation="horizontal" 
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            android:text="我的订单"
+           /> 
+          
+       
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="1dip"
+            android:textColor="#ffffff"
+            android:textSize="15sp"
+            android:text="退出" 
+            android:onClick="loginout_system"
+            />
+
+           
+    	</RelativeLayout>
+    	
+		<include
+        android:id="@+id/spinner_down_nearby"
+        layout="@layout/spinner_down" />
+		
+		
+		<LinearLayout
+	    android:orientation="horizontal"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:focusable="true" 
+		android:focusableInTouchMode="true"
+	    >
+        
+         
+		 <EditText 
+	    android:id="@+id/order_orderid"
+	    android:layout_width="200dp"
+	    android:layout_height="wrap_content"
+	    android:layout_below="@+id/login_top_layout"
+	    android:textColor="#000"
+	    android:textSize="15sp"
+	    android:layout_marginTop="5dp"
+	    android:layout_marginLeft="10dp"
+	    android:layout_marginRight="10dp"
+	    android:singleLine="true"
+			 android:hint="请输入订单号"/>
+			<!--android:background="@drawable/login_editbox"-->
+
+
+			<Button
+				android:id="@+id/order_search_btn"
+				android:layout_width="wrap_content"
+				android:layout_height="40dp"
+				android:layout_marginLeft="15dp"
+				android:layout_marginTop="3dp"
+				android:background="@android:color/holo_red_dark"
+				android:onClick="order_search"
+				android:text="搜索"
+				android:textColor="#ffffff"
+				android:textSize="12dp"
+				android:textStyle="bold" />
+        <!--android:background="@drawable/add_to_car_button_normal"-->
+
+         
+         
+          
+     </LinearLayout>  
+    	
+      
+        
+
+    <LinearLayout
+	    android:orientation="horizontal"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_marginTop="10dp"
+	    >
+		<TextView  
+		    android:layout_width="200dp" 
+		    android:layout_height="wrap_content" 
+		    android:gravity="center"
+		    android:text="订单号"
+		    android:textSize="15sp"
+		    android:textStyle="bold"
+		    />
+		
+		<TextView
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="订单状态"
+			android:textSize="15sp"
+		    android:textStyle="bold"
+			/>
+	</LinearLayout>
+  	
+   
+    	
+	<ListView
+        android:id="@+id/order_list_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="2dip"
+        android:layout_marginLeft="2dip"
+        android:layout_marginRight="2dip"
+        android:layout_marginTop="2dip"
+		android:divider="@drawable/line"
+        android:cacheColorHint="#00000000"
+        android:scrollbars="none" >
+    </ListView> 
+	
+	
+    	
+   
+    
+
+</LinearLayout>

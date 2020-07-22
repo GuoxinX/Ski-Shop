@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/beijing.jpg",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/drawable-hdpi/beijing.jpg"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/dw.png",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/drawable-hdpi/dw.png"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/filter_bg.png",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/drawable-hdpi/filter_bg.png"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/edit_product_num_des_normal.png",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/drawable-hdpi/edit_product_num_des_normal.png"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bgbg.jpg",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/drawable-hdpi/bgbg.jpg"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/right_arrow.png",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/drawable-hdpi/right_arrow.png"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/search.jpg",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/drawable-hdpi/search.jpg"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/add_to_car_button_normal.png",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/drawable-hdpi/add_to_car_button_normal.png"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ta_bg.png",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/drawable-hdpi/ta_bg.png"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cart_listview_gap.png",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/drawable-hdpi/cart_listview_gap.png"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/product_detail_new_line.png",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/drawable-hdpi/product_detail_new_line.png"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/main_navigation_highlight_bg.png",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/drawable-hdpi/main_navigation_highlight_bg.png"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/timg.png",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/drawable-hdpi/timg.png"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/login_edit_normal.png",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/drawable-hdpi/login_edit_normal.png"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_back_default.png",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/drawable-hdpi/icon_back_default.png"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/category_icon_123.png",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/drawable-hdpi/category_icon_123.png"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/top_bg.png",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/drawable-hdpi/top_bg.png"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_bg.png",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/drawable-hdpi/tab_bg.png"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/main_navigation_background.png",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/drawable-hdpi/main_navigation_background.png"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/delete_btn.png",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/drawable-hdpi/delete_btn.png"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cart_logo.jpg",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/drawable-hdpi/cart_logo.jpg"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/edit_product_num_add_normal.png",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/drawable-hdpi/edit_product_num_add_normal.png"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bank_button.png",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/drawable-hdpi/bank_button.png"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/default_goods_image_240.png",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/drawable-hdpi/default_goods_image_240.png"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher_beijing.jpg",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/drawable-hdpi/ic_launcher_beijing.jpg"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/line.jpg",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/drawable-hdpi/line.jpg"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/num.png",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/drawable-hdpi/num.png"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tb_bg_login_input_hl.png",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/drawable-hdpi/tb_bg_login_input_hl.png"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bank_checked_button.png",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/drawable-hdpi/bank_checked_button.png"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/login_edit_pressed.png",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/drawable-hdpi/login_edit_pressed.png"
+    }
+]

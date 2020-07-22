@@ -1,0 +1,7 @@
+#Mon May 21 09:12:01 CST 2018
+base.0=/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_516ffcc939594ddd79807c5483ace1a9de5daff0
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dcff1e9f8218020221b3f587f7705549ae38b3bf/classes.dex
+base.1=/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dcff1e9f8218020221b3f587f7705549ae38b3bf
+file.0=/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_516ffcc939594ddd79807c5483ace1a9de5daff0/classes.dex

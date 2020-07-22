@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/layout/order_list_item.xml",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/layout/order_list_item.xml"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/layout/spinner_text.xml",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/layout/spinner_text.xml"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/layout/listivew_goods_item.xml",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/layout/listivew_goods_item.xml"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/layout/userinfo_details_view.xml",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/layout/userinfo_details_view.xml"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/layout/spinner_down.xml",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/layout/spinner_down.xml"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/layout/cart_view.xml",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/layout/cart_view.xml"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/layout/orderadd.xml",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/layout/orderadd.xml"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/layout/orderview.xml",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/layout/orderview.xml"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/layout/login.xml",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/layout/login.xml"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/layout/gallery_pics_item.xml",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/layout/gallery_pics_item.xml"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/layout/order.xml",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/layout/order.xml"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/layout/product_details.xml",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/layout/product_details.xml"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/layout/password.xml",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/layout/password.xml"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/layout/userinfoedit.xml",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/layout/userinfoedit.xml"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/layout/vist.xml",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/layout/vist.xml"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/layout/shopping.xml",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/layout/shopping.xml"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/layout/register.xml",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/layout/register.xml"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/layout/cart_listivew_item.xml",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/layout/cart_listivew_item.xml"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/layout/tabhost.xml",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/layout/tabhost.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/drawable/home_tab_background_selector.xml",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/drawable/home_tab_background_selector.xml"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/drawable/cart_checkbox_bg.xml",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/drawable/cart_checkbox_bg.xml"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/drawable/login_editbox.xml",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/drawable/login_editbox.xml"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/res/merged/debug/drawable/good_list_selector.xml",
+        "source": "/Users/alex/AndroidStudioProjects/shopping/app/src/main/res/drawable/good_list_selector.xml"
+    }
+]

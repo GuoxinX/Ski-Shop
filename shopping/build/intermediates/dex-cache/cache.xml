@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/alex/AndroidStudioProjects/shopping/app/libs/activeandroid-3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8cdfaba830e02c56967e946078b60fc476432f36">
+        <dex dex="/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/transforms/dex/debug/folders/1000/2/activeandroid-3.0_49defea5b59fed53cedf274ede964c0ac390a033/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/AndroidStudioProjects/shopping/app/libs/httpmime-4.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ed8b5ee0167cb27dea55851259eb34b609f31df0">
+        <dex dex="/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpmime-4.1.2_2723a985dcc39c1d3f836a319cbf5d996a98e575/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ea48f83ae80d751d26e776f62ffa9b31dae454f0">
+        <dex dex="/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_516ffcc939594ddd79807c5483ace1a9de5daff0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/alex/AndroidStudioProjects/shopping/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dcff1e9f8218020221b3f587f7705549ae38b3bf/classes.dex" />
+    </item>
+
+</items>

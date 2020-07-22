@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#FAFAFA"
+    android:orientation="vertical" >
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#D9434E"
+        android:orientation="horizontal"
+        android:padding="5dip" >
+        
+        <TextView
+            android:id="@+id/textGoodsTabTitleName"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:padding="5dip"
+            android:text="购物车"
+            android:textColor="#FFFFFF"
+            android:textSize="18dp" />
+        
+    </RelativeLayout>
+    
+    <RelativeLayout
+        android:id="@+id/relativeLayoutNoGoods"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" 
+        android:visibility="gone">
+        <TextView
+            android:id="@+id/textNoGoodsTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="您还没有商品，请先去购买"
+            android:textColor="#959595"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:textSize="20dp" />
+        
+    </RelativeLayout>
+    
+    <LinearLayout
+        android:id="@+id/linearLayoutCartList"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#FAFAFA"
+        android:visibility="gone"
+        android:orientation="vertical" >
+        <ListView
+            android:id="@+id/listViewShopCart"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+       		android:fadingEdge="none"
+      		android:cacheColorHint="#00000000"
+      		android:listSelector="#00000000"
+      		android:divider="@null" />
+        
+         
+        
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingLeft="10dip" >
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_gravity="center"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+                
+                <TextView
+                    android:id="@+id/textCartGoodsAllPrice"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="3dp"
+                    android:singleLine="true"
+                    android:text=""
+                    android:textColor="#CC1212"
+                    android:textSize="15dp" />
+            </LinearLayout>
+            
+            <Button
+                android:id="@+id/buttonSendCart"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="5dip"
+                android:background="@android:color/holo_red_dark"
+                android:padding="5dip"
+                android:text="提交订单"
+                android:textColor="#FFFFFF"
+                android:textSize="15dp" 
+                android:onClick="orderadd"
+                />
+            
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

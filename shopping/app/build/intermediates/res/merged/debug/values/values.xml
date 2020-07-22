@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#6D6D6D</color>
+    <color name="blue1">#4169e1</color>
+    <color name="contents_text">#ff000000</color>
+    <color name="gray">#ff888888</color>
+    <color name="home_textcolor_bg_n">#FFFFFF</color>
+    <color name="home_textcolor_bg_p">#F5F5F5</color>
+    <color name="light_gray">#ffdcdcdc</color>
+    <color name="light_yellow_bg">#ffe9e6a5</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_gray">#dd888888</color>
+    <color name="white">#ffffffff</color>
+    <color name="yellow">#ffffff00</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">滑雪用具商城</string>
+    <string name="hello_world">Hello world!</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        
+    </style>
+    <style name="main_tab_bottom">
+        <item name="android:gravity">center</item>
+        <item name="android:paddingTop">15dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:button">@null</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="nearby_spinner_style">
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@null</item>
+        <item name="android:layout_marginTop">6dip</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="normalText" parent="@android:style/TextAppearance">
+        <item name="android:textColor">#444</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="some_used">
+        <item name="android:layout_marginTop">10dip</item>
+        <item name="android:layout_marginLeft">10dip</item>
+        <item name="android:layout_marginRight">10dip</item>
+        <item name="android:layout_marginBottom">10dip</item>
+    </style>
+</resources>

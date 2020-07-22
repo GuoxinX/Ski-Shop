@@ -1,0 +1,112 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    	android:layout_width="match_parent"
+   		android:layout_height="match_parent"
+    	android:orientation="vertical" >  
+    	
+    <!-- 头部 -->
+		<RelativeLayout
+        android:id="@+id/main_RelativeLayout01"
+        android:layout_width="fill_parent"
+        android:layout_height="35dp"
+        android:background="@drawable/top_bg"
+        android:layout_alignParentTop="true"
+        android:orientation="horizontal" 
+        >
+        
+		    <ImageView
+            android:id="@+id/imageBack"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/icon_back_default"
+            android:gravity="center_vertical"
+            android:onClick="vist_back"
+             />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            android:text="商品列表"
+           /> 
+          
+       
+       
+
+           
+    	</RelativeLayout>
+    	
+		<include
+        android:id="@+id/spinner_down_nearby"
+        layout="@layout/spinner_down" />
+		
+		
+		<LinearLayout
+	    android:orientation="horizontal"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:focusable="true" 
+		android:focusableInTouchMode="true"
+	    >
+        
+         
+		 <EditText 
+	    android:id="@+id/shopping_name"
+	    android:layout_width="200dp"
+	    android:layout_height="wrap_content"
+	    android:layout_below="@+id/login_top_layout"
+	    android:textColor="#000"
+	    android:textSize="15sp"
+	    android:layout_marginTop="5dp"
+	    android:layout_marginLeft="10dp"
+	    android:layout_marginRight="10dp"
+	    android:singleLine="true"
+			 android:hint="请输入商品名"/>
+	    <!--android:background="@drawable/login_editbox"-->
+
+
+
+			<Button
+				android:id="@+id/shopping_search_btn"
+				android:layout_width="wrap_content"
+				android:layout_height="40dp"
+				android:layout_marginLeft="15dp"
+				android:layout_marginTop="3dp"
+				android:background="@android:color/holo_red_dark"
+				android:onClick="shopping_search"
+				android:text="搜索"
+				android:textColor="#ffffff"
+				android:textSize="12dp"
+				android:textStyle="bold" />
+         
+         
+          
+     </LinearLayout>  
+    	
+      
+        
+
+    
+  	
+   
+    	
+	 
+	
+	
+     <ListView
+        android:id="@+id/goodsListView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:cacheColorHint="#f5f5f5"
+        android:divider="@drawable/cart_listview_gap"
+        android:drawSelectorOnTop="false"
+        android:listSelector="#00000000"
+        android:fadingEdge="none" />	
+   
+    
+
+</LinearLayout>
